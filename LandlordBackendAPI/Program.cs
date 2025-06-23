@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using LandlordBackendAPI.Data;
+using LandlordBackendAPI.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,13 @@ builder.Services.AddCors(options =>
             .WithOrigins("https://localhost:7234")
             .AllowAnyHeader()
             .AllowAnyMethod());
+});
+
+// Access environment variables and bind to StripeSettings
+builder.Services.Configure<StripSettings>(options =>
+{
+    options.SecretKey = Environment.GetEnvironmentVariable("Stripe__SecretKey");
+    options.PublishableKey = Environment.GetEnvironmentVariable("Stripe__PublishableKey");
 });
 
 // Add services to the container.
