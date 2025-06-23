@@ -1,0 +1,746 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LandlordBackendAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\epc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\epc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\epccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\epccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\eicrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\eicrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\eicr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\eicr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\fireextinguisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\fireextinguisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\firealarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\firealarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\asbestosbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\asbestosbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\pat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\pat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\gassafety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\gassafety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\fusebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\fusebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\firesafetycertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\firesafetycertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\fireriskassessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\fireriskassessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\firedoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\firedoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\emergencylightstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\emergencylightstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\commercialgascertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\commercialgascertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\models\\commercial_eicr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\models\\commercial_eicr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\faqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\faqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\contactformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\contactformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\commercialgascertificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\commercialgascertificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\firesafetycertificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\firesafetycertificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\emergencylightstestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\emergencylightstestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\patcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\patcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\gassafetycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\gassafetycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\fuseboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\fuseboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\fireriskassessmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\fireriskassessmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\fireextinguishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\fireextinguishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\firedoorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\firedoorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\firealarmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\firealarmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\commercialeicrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\commercialeicrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\asbestosbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\controllers\\asbestosbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\migrations\\20250605121641_addingcommercialgassafety.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\migrations\\20250605121641_addingcommercialgassafety.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\migrations\\20250605110456_addingcommercialeicr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\migrations\\20250605110456_addingcommercialeicr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LandlordCertifyDB/True/SqlTable/dbo.CommercialEICRs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\landlordbackendapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\landlordbackendapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\landlordbackendapi.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\landlordbackendapi.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\landlordbackendapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\landlordbackendapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LandlordCertifyDB/True/SqlTable/dbo.AsbestosBookings.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EPCController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\EPCController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\EPCController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\EPCController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\EPCController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:23:48.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EPC.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\EPC.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\EPC.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\EPC.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\EPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:22:37.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FuseBox.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FuseBox.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\FuseBox.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FuseBox.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\FuseBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:44:32.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GasSafety.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\GasSafety.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\GasSafety.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\GasSafety.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\GasSafety.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:59:49.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PAT.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\PAT.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\PAT.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\PAT.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\PAT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:10:38.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EICRController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\EICRController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\EICRController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\EICRController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\EICRController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:31:07.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EICR.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\EICR.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\EICR.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\EICR.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\EICR.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:22:25.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AsbestosBooking.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\AsbestosBooking.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\AsbestosBooking.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\AsbestosBooking.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\AsbestosBooking.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:25:32.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FireAlarm.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireAlarm.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\FireAlarm.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireAlarm.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\FireAlarm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:02:09.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FireExtinguisher.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireExtinguisher.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\FireExtinguisher.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireExtinguisher.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\FireExtinguisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:52:57.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:58:26.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FireSafetyCertificate.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireSafetyCertificate.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\FireSafetyCertificate.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireSafetyCertificate.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\FireSafetyCertificate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwBEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:18:18.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FireRiskAssessment.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireRiskAssessment.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\FireRiskAssessment.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireRiskAssessment.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\FireRiskAssessment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:05:16.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FireDoor.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireDoor.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\FireDoor.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireDoor.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\FireDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:36:30.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FAQ.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FAQ.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\FAQ.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FAQ.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\FAQ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:53:24.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmergencyLightsTest.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\EmergencyLightsTest.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\EmergencyLightsTest.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\EmergencyLightsTest.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\EmergencyLightsTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:22:37.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\Contact.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\Contact.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:50:29.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommercialGasCertificate.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\CommercialGasCertificate.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\CommercialGasCertificate.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\CommercialGasCertificate.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\CommercialGasCertificate.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:13:56.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Commercial_EICR.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\Commercial_EICR.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\Commercial_EICR.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\Commercial_EICR.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Models\\Commercial_EICR.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:53:32.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FAQController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FAQController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\FAQController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FAQController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\FAQController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:57:55.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContactFormController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\ContactFormController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\ContactFormController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\ContactFormController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\ContactFormController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:53:28.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CommercialGasCertificateController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\CommercialGasCertificateController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\CommercialGasCertificateController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\CommercialGasCertificateController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\CommercialGasCertificateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:17:57.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FireSafetyCertificateController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireSafetyCertificateController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\FireSafetyCertificateController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireSafetyCertificateController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\FireSafetyCertificateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:20:40.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmergencyLightsTestController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\EmergencyLightsTestController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\EmergencyLightsTestController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\EmergencyLightsTestController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\EmergencyLightsTestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:25:15.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PATController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\PATController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\PATController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\PATController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\PATController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwD4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:11:29.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GasSafetyController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\GasSafetyController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\GasSafetyController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\GasSafetyController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\GasSafetyController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:00:48.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FuseBoxController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FuseBoxController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\FuseBoxController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FuseBoxController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\FuseBoxController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:45:32.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FireRiskAssessmentController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireRiskAssessmentController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\FireRiskAssessmentController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireRiskAssessmentController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\FireRiskAssessmentController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwD4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:06:27.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FireExtinguisherController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireExtinguisherController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\FireExtinguisherController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireExtinguisherController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\FireExtinguisherController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:53:52.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FireDoorController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireDoorController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\FireDoorController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireDoorController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\FireDoorController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:37:41.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FireAlarmController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireAlarmController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\FireAlarmController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireAlarmController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\FireAlarmController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwEQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:03:02.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CommercialEICRController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\CommercialEICRController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\CommercialEICRController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\CommercialEICRController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\CommercialEICRController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:55:22.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AsbestosBookingController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\AsbestosBookingController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\AsbestosBookingController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\AsbestosBookingController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\AsbestosBookingController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA3wDMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:25:48.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Program.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Program.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:57:40.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\appsettings.json",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\appsettings.json",
+              "RelativeToolTip": "LandlordBackendAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T13:27:15.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:22:08.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250605121641_AddingCommercialGasSafety.Designer.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Migrations\\20250605121641_AddingCommercialGasSafety.Designer.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Migrations\\20250605121641_AddingCommercialGasSafety.Designer.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Migrations\\20250605121641_AddingCommercialGasSafety.Designer.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Migrations\\20250605121641_AddingCommercialGasSafety.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:21:56.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250605110456_AddingCommercialEICR.Designer.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Migrations\\20250605110456_AddingCommercialEICR.Designer.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Migrations\\20250605110456_AddingCommercialEICR.Designer.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Migrations\\20250605110456_AddingCommercialEICR.Designer.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Migrations\\20250605110456_AddingCommercialEICR.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:21:45.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:38:08.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "dbo.CommercialEICRs.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LandlordCertifyDB/True/SqlTable/dbo.CommercialEICRs.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LandlordCertifyDB/True/SqlTable/dbo.CommercialEICRs.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-05T11:09:04.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LandlordBackendAPI.csproj.Backup.tmp",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\LandlordBackendAPI.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\LandlordBackendAPI.csproj.Backup.tmp",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\LandlordBackendAPI.csproj.Backup.tmp",
+              "RelativeToolTip": "LandlordBackendAPI\\LandlordBackendAPI.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-05T09:21:20.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\appsettings.Development.json",
+              "RelativeToolTip": "LandlordBackendAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T09:21:12.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LandlordBackendAPI.http",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\LandlordBackendAPI.http",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\LandlordBackendAPI.http",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\LandlordBackendAPI.http",
+              "RelativeToolTip": "LandlordBackendAPI\\LandlordBackendAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-04T14:21:45.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LandlordBackendAPI",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\LandlordBackendAPI.csproj",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\LandlordBackendAPI.csproj",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\LandlordBackendAPI.csproj",
+              "RelativeToolTip": "LandlordBackendAPI\\LandlordBackendAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T09:19:54.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.AsbestosBookings.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LandlordCertifyDB/True/SqlTable/dbo.AsbestosBookings.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LandlordCertifyDB/True/SqlTable/dbo.AsbestosBookings.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-04T13:49:09.928Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

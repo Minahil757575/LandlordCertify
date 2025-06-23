@@ -1,0 +1,19 @@
+@LandlordBackendAPI_HostAddress = http://localhost:5108
+
+GET {{LandlordBackendAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+
+
+POST {{LandlordBackendAPI_HostAddress}}/api/AsbestosBookings
+Content-Type: application/json
+
+{
+  "fullName": "Test User",
+  "email": "test@example.com",
+  "phone": "1234567890",
+  "address": "123 Test St",
+  "bookingDate": "2025-06-05T10:00:00",
+  "message": "Please confirm."
+}
+###
