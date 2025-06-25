@@ -48,7 +48,8 @@ app.UseCors("AllowBlazor");
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
+// Option 1: Simple root route
+app.MapGet("/", () => "LandlordCertify API is running!");
 app.MapControllers();
 
 app.Run();

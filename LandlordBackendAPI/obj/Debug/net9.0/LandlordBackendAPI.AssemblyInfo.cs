@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LandlordBackendAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f087c094f5fc04458e53ca1ae0d842a0d6fd5e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d37ef2909a10ddf29b79ee2ee84f0a9268e53c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("LandlordBackendAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LandlordBackendAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

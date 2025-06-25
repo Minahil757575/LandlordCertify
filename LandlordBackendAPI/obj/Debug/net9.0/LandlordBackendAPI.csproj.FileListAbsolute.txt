@@ -1,5 +1,4 @@
 D:\LandlordBackendAPI\LandlordBackendAPI\bin\Debug\net9.0\appsettings.Development.json
-D:\LandlordBackendAPI\LandlordBackendAPI\bin\Debug\net9.0\appsettings.json
 D:\LandlordBackendAPI\LandlordBackendAPI\bin\Debug\net9.0\LandlordBackendAPI.staticwebassets.endpoints.json
 D:\LandlordBackendAPI\LandlordBackendAPI\bin\Debug\net9.0\LandlordBackendAPI.exe
 D:\LandlordBackendAPI\LandlordBackendAPI\bin\Debug\net9.0\LandlordBackendAPI.deps.json
@@ -159,3 +158,4 @@ D:\LandlordBackendAPI\LandlordBackendAPI\bin\Debug\net9.0\Microsoft.JSInterop.dl
 D:\LandlordBackendAPI\LandlordBackendAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
 D:\LandlordBackendAPI\LandlordBackendAPI\bin\Debug\net9.0\Stripe.net.dll
 D:\LandlordBackendAPI\LandlordBackendAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\LandlordBackendAPI\LandlordBackendAPI\obj\Debug\net9.0\LandlordBackendAPI.sourcelink.json
