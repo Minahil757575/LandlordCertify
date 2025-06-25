@@ -49,21 +49,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 // Option 1: Simple root route
 app.MapGet("/", () => "LandlordCertify API is running!");
-// In Program.cs, BEFORE app.MapControllers():
-using (var scope = app.Services.CreateScope())
-{
-    var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-    db.Database.EnsureCreated(); // Brutally force DB creation
-    try
-    {
-        await db.Database.CanConnectAsync();
-        Console.WriteLine(" DB CONNECTED!");
-    }
-    catch (Exception ex)
-    {
-        Console.WriteLine($" DB FAILED: {ex.Message}");
-    }
-}
+
 // In Program.cs:
 if (!app.Environment.IsProduction())
 {
