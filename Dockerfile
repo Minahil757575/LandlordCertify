@@ -6,7 +6,7 @@ EXPOSE 80
 # Build image
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
-COPY LandlordBackendAPI/ ./LandlordBackendAPI/
+COPY . ./
 WORKDIR /src/LandlordBackendAPI
 RUN dotnet restore "LandlordBackendAPI.csproj"
 RUN dotnet publish "LandlordBackendAPI.csproj" -c Release -o /app/publish
