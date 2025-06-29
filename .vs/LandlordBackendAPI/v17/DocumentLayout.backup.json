@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\LandlordBackendAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|solutionrelative:landlordbackendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27EEDA3C-4777-49C7-9F0D-D1D72CC7DEFD}|LandlordBackendAPI\\LandlordBackendAPI.csproj|d:\\landlordbackendapi\\landlordbackendapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -190,10 +194,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LandlordCertifyDB/True/SqlTable/dbo.AsbestosBookings.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LandlordBackendAPI\\LandlordBackendAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LandlordBackendAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -202,8 +202,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "DockedWidth": 186,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -217,27 +217,14 @@
               "RelativeDocumentMoniker": "LandlordBackendAPI\\appsettings.Development.json",
               "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\appsettings.Development.json",
               "RelativeToolTip": "LandlordBackendAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-25T20:52:15.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\TestController.cs",
-              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\TestController.cs",
-              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\TestController.cs",
-              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\TestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T20:35:45.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EPC.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\EPC.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\EPC.cs",
@@ -249,7 +236,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\appsettings.json",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\appsettings.json",
+              "RelativeToolTip": "LandlordBackendAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T13:27:15.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\TestController.cs",
+              "RelativeToolTip": "LandlordBackendAPI\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:35:45.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "PAT.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\PAT.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\PAT.cs",
@@ -261,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "EICRController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\EICRController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\EICRController.cs",
@@ -273,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "EICR.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\EICR.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\EICR.cs",
@@ -285,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AsbestosBooking.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\AsbestosBooking.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\AsbestosBooking.cs",
@@ -297,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "FireAlarm.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireAlarm.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\FireAlarm.cs",
@@ -309,20 +321,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Program.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Program.cs",
               "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Program.cs",
               "RelativeToolTip": "LandlordBackendAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T13:57:40.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LandlordBackendAPI.csproj",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\LandlordBackendAPI.csproj",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\LandlordBackendAPI.csproj",
@@ -334,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -344,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "StripSettings.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\StripSettings.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\StripSettings.cs",
@@ -356,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "FireExtinguisher.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireExtinguisher.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\FireExtinguisher.cs",
@@ -368,19 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "LandlordBackendAPI\\appsettings.json",
-              "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\appsettings.json",
-              "RelativeToolTip": "LandlordBackendAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-04T13:27:15.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "GasSafety.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\GasSafety.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\GasSafety.cs",
@@ -392,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "FuseBox.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FuseBox.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\FuseBox.cs",
@@ -404,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EPCController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\EPCController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\EPCController.cs",
@@ -416,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Data\\AppDbContext.cs",
@@ -428,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "FireSafetyCertificate.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireSafetyCertificate.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\FireSafetyCertificate.cs",
@@ -440,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "FireRiskAssessment.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireRiskAssessment.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\FireRiskAssessment.cs",
@@ -452,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "FireDoor.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FireDoor.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\FireDoor.cs",
@@ -464,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "FAQ.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\FAQ.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\FAQ.cs",
@@ -476,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "EmergencyLightsTest.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\EmergencyLightsTest.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\EmergencyLightsTest.cs",
@@ -488,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Contact.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\Contact.cs",
@@ -500,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "CommercialGasCertificate.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\CommercialGasCertificate.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\CommercialGasCertificate.cs",
@@ -512,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Commercial_EICR.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Models\\Commercial_EICR.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Models\\Commercial_EICR.cs",
@@ -524,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "FAQController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FAQController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\FAQController.cs",
@@ -536,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ContactFormController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\ContactFormController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\ContactFormController.cs",
@@ -548,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "CommercialGasCertificateController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\CommercialGasCertificateController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\CommercialGasCertificateController.cs",
@@ -560,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "FireSafetyCertificateController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireSafetyCertificateController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\FireSafetyCertificateController.cs",
@@ -572,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "EmergencyLightsTestController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\EmergencyLightsTestController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\EmergencyLightsTestController.cs",
@@ -584,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "PATController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\PATController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\PATController.cs",
@@ -596,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "GasSafetyController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\GasSafetyController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\GasSafetyController.cs",
@@ -608,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "FuseBoxController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FuseBoxController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\FuseBoxController.cs",
@@ -620,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "FireRiskAssessmentController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireRiskAssessmentController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\FireRiskAssessmentController.cs",
@@ -632,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "FireExtinguisherController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireExtinguisherController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\FireExtinguisherController.cs",
@@ -644,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "FireDoorController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireDoorController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\FireDoorController.cs",
@@ -656,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "FireAlarmController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\FireAlarmController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\FireAlarmController.cs",
@@ -668,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "CommercialEICRController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\CommercialEICRController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\CommercialEICRController.cs",
@@ -680,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "AsbestosBookingController.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Controllers\\AsbestosBookingController.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Controllers\\AsbestosBookingController.cs",
@@ -692,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -704,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "20250605121641_AddingCommercialGasSafety.Designer.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Migrations\\20250605121641_AddingCommercialGasSafety.Designer.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Migrations\\20250605121641_AddingCommercialGasSafety.Designer.cs",
@@ -716,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "20250605110456_AddingCommercialEICR.Designer.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Migrations\\20250605110456_AddingCommercialEICR.Designer.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Migrations\\20250605110456_AddingCommercialEICR.Designer.cs",
@@ -728,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "AppDbContextFactory.cs",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Data\\AppDbContextFactory.cs",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Data\\AppDbContextFactory.cs",
@@ -740,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "dbo.CommercialEICRs.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LandlordCertifyDB/True/SqlTable/dbo.CommercialEICRs.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LandlordCertifyDB/True/SqlTable/dbo.CommercialEICRs.sql",
@@ -749,7 +749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "LandlordBackendAPI.csproj.Backup.tmp",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\LandlordBackendAPI.csproj.Backup.tmp",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\LandlordBackendAPI.csproj.Backup.tmp",
@@ -761,7 +761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "LandlordBackendAPI.http",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\LandlordBackendAPI.http",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\LandlordBackendAPI.http",
@@ -773,7 +773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "LandlordBackendAPI",
               "DocumentMoniker": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\LandlordBackendAPI.csproj",
               "RelativeDocumentMoniker": "LandlordBackendAPI\\LandlordBackendAPI.csproj",
@@ -784,7 +784,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "dbo.AsbestosBookings.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LandlordCertifyDB/True/SqlTable/dbo.AsbestosBookings.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/LandlordCertifyDB/True/SqlTable/dbo.AsbestosBookings.sql",
@@ -794,7 +794,7 @@
           ]
         },
         {
-          "DockedWidth": 200,
+          "DockedWidth": 214,
           "SelectedChildIndex": -1,
           "Children": [
             {
