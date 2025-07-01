@@ -231,8 +231,7 @@
               "RelativeToolTip": "LandlordBackendAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-04T13:27:15.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T13:27:15.181Z"
             },
             {
               "$type": "Document",
@@ -314,7 +313,7 @@
               "RelativeDocumentMoniker": "LandlordBackendAPI\\Program.cs",
               "ToolTip": "D:\\LandlordBackendAPI\\LandlordBackendAPI\\Program.cs",
               "RelativeToolTip": "LandlordBackendAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T13:57:40.415Z",
               "EditorCaption": ""
