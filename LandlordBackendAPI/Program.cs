@@ -13,6 +13,15 @@ builder.Services.AddCors(options =>
             .AllowAnyHeader()
             .AllowAnyMethod());
 });
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowBlazorClient",
+        policy => policy
+            .WithOrigins("https://landlordcertify.co.uk/") // your frontend URL
+            .AllowAnyHeader()
+            .AllowAnyMethod());
+});
+
 
 // Access environment variables and bind to StripeSettings
 builder.Services.Configure<StripSettings>(options =>
@@ -43,10 +52,13 @@ app.UseSwaggerUI(); // This adds Swagger UI (the browser page)
 
 // Use the CORS policy
 app.UseCors("AllowBlazor");
+app.UseCors("AllowBlazorClient");
 
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+
 // Option 1: Simple root route
 app.MapGet("/", () => "LandlordCertify API is running!");
 
