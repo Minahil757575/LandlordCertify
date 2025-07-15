@@ -17,7 +17,10 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowBlazorClient",
         builder => builder
-            .WithOrigins("https://landlordcertify.co.uk") // your frontend URL
+            .WithOrigins( "https://landlordcertify.co.uk",
+                "https://www.landlordcertify.co.uk",
+                "https://landlordcertify.com",
+                "https://www.landlordcertify.com") // your frontend URL
             .AllowAnyHeader()
             .AllowAnyMethod());
 });
